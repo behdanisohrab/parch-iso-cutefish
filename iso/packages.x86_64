@@ -52,9 +52,8 @@ pipewire-alsa
 pipewire-audio
 pipewire-ffado
 pipewire-jack
-pipewire-media-session
-pipewire-roc
-pipewire-v4l2
+wireplumber
+pipewire-rocpipewire-v4l2
 pipewire-x11-bell
 pipewire-zeroconf
 alsa-ucm-conf
@@ -110,7 +109,6 @@ pv
 python
 python-psutil
 python-systemd
-qterminal
 refind
 #reflector
 reiserfsprogs
@@ -164,21 +162,10 @@ cutefish-gtk-themes-git
 plasma-pa
 plasma-nm
 konsole
-firefox
+chromium
 
 #cutefish-desktop
-cutefish-calculator
-cutefish-core
-cutefish-dock
-cutefish-filemanager
-cutefish-icons
-cutefish-kwin-plugins
-cutefish-launcher
-cutefish-qt-plugins
-cutefish-screenlocker
-cutefish-settings
-cutefish-statusbar
-cutefish-wallpapers
+cutefish
 konsole
 parch-cutefish-fix
 
@@ -194,21 +181,16 @@ okular
 mpv
 parch-mpv
 ibus
-ttf-dejavu
-juk
+
 
 #parchlinuxstuff
 calamares
+calamares-parch
 parch-grub
-parch-dorood
-python-pyqt6
-qt6-base
-parchlinux-cala-config
 os-prober
 paru
 parch-branding
 parch-pacman
-parch-os-wallpapers
+parch-wallpapers
 parch-emoji-ios
-estedad-fonts
 vazirmatn-fonts
