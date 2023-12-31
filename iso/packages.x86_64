@@ -47,15 +47,7 @@ irssi
 pipewire
 pipewire-pulse
 gst-plugin-pipewire
-libpipewire
-pipewire-alsa
-pipewire-audio
-pipewire-ffado
-pipewire-jack
 wireplumber
-pipewire-rocpipewire-v4l2
-pipewire-x11-bell
-pipewire-zeroconf
 alsa-ucm-conf
 dkms
 sof-firmware
